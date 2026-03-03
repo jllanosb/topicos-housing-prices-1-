@@ -1,6 +1,6 @@
 # PROYECTO DE BIGDATA DETECCIÓN DE DIABETES
 
-Descripcion
+Descipcioón
 
 
 fuente Data
